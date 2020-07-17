@@ -14,7 +14,7 @@
     "joi-browser": "13.4.0",
     "jquery": "^3.4.0",
     "jwt-decode": "2.2.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "moment": "2.24.0",
     "notistack": "0.8.4",
     "rand-number": "1.0.3",
