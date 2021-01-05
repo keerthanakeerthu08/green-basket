@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "3.9.3",
     "apexcharts": "3.6.5",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "axios-progress-bar": "1.2.0",
     "bootstrap": "4.3.1",
     "cross-env": "5.2.0",
